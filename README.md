@@ -24,3 +24,20 @@
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="INSERT_YOUR_LINKEDIN_URL_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:INSERT_YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="INSERT_YOUR_PORTFOLIO_URL_HERE">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+</p>
