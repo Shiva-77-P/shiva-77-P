@@ -29,15 +29,15 @@
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="INSERT_YOUR_LINKEDIN_URL_HERE">
+  <a href="https://www.linkedin.com/in/shiva-ponnam/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:INSERT_YOUR_EMAIL_HERE">
+  <a href="mailto:shivaponnam77@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="INSERT_YOUR_PORTFOLIO_URL_HERE">
+  <a href="https://shiva-77-p.github.io/myportfolio1/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
 </p>
